@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.meme span:nth-child(2) {
+  margin-top: 1150px;
+}
+
+.meme span{
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  margin-top: 50px;
+  color: white;
+    font-size: 20px;
+    text-shadow:
+        0.07em 0 black,
+        0 0.07em black,
+        -0.07em 0 black,
+        0 -0.07em black;
+}
+
+.meme img{
+  width: 100%;
+}
